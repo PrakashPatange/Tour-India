@@ -99,19 +99,19 @@ const Contact = () => {
               <p>Connect with us : </p>
               <div className={classes.social_icons}>
                 <a
-                  href="https://www.linkedin.com/in/om-gawande/"
+                  href="https://www.linkedin.com/in/prakash-patange/"
                   target="blank"
                 >
                   <FaInstagram />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/om-gawande/"
+                  href="https://www.linkedin.com/in/prakash-patange/"
                   target="blank"
                 >
                   <FaLinkedinIn />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/om-gawande/"
+                  href="https://www.linkedin.com/in/prakash-patange/"
                   target="blank"
                 >
                   <FaTwitter />

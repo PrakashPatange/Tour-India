@@ -29,7 +29,7 @@ const Footer = () => {
               <ul className={classes.social_links}>
                 <li className={classes.socia_link}>
                   <a
-                    href="https://www.linkedin.com/in/om-gawande/"
+                    href="https://www.linkedin.com/in/prakash-patange/"
                     target="blank"
                   >
                     <img className={classes.li_link} src={linkedin}></img>
@@ -37,7 +37,7 @@ const Footer = () => {
                 </li>
                 <li className={classes.socia_link}>
                   <a
-                    href="https://www.linkedin.com/in/om-gawande/"
+                    href="https://www.linkedin.com/in/prakash-patange/"
                     target="blank"
                   >
                     <img className={classes.ig_link} src={instagram}></img>
@@ -45,7 +45,7 @@ const Footer = () => {
                 </li>
                 <li className={classes.socia_link}>
                   <a
-                    href="https://www.linkedin.com/in/om-gawande/"
+                    href="https://www.linkedin.com/in/prakash-patange/"
                     target="blank"
                   >
                     <img className={classes.wp_link} src={whatsapp}></img>
@@ -53,7 +53,7 @@ const Footer = () => {
                 </li>
                 <li className={classes.socia_link}>
                   <a
-                    href="https://www.linkedin.com/in/om-gawande/"
+                    href="https://www.linkedin.com/in/prakash-patange/"
                     target="blank"
                   >
                     <img className={classes.twi_link} src={twitter}></img>
@@ -61,7 +61,7 @@ const Footer = () => {
                 </li>
                 <li className={classes.socia_link}>
                   <a
-                    href="https://www.linkedin.com/in/om-gawande/"
+                    href="https://www.linkedin.com/in/prakash-patange/"
                     target="blank"
                   >
                     <img className={classes.yt_link} src={youtube}></img>
